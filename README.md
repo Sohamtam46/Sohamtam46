@@ -54,7 +54,7 @@ A multi-form C# desktop application with input validation, exception handling, f
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Soham%20Tambde-blue?style=flat&logo=linkedin)]([https://www.linkedin.com/in/soham-tambde](https://www.linkedin.com/in/soham-tambde-4784381a8/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Soham%20Tambde-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/soham-tambde-4784381a8/)
 
 ---
 
